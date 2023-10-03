@@ -1,4 +1,4 @@
-# Typescript Google Docs Clone
+# Google Docs Clone
 
 ## Description
 
