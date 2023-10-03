@@ -18,14 +18,20 @@ React app with Quill text editor.
 
 To run the project, follow the instruction below:
 
+change mongoDB url (index.ts)
+
+![image](https://github.com/douglas85rj/Google-Docs-Clone/assets/19936447/2f6e6456-03d2-48c0-bf52-6f163a834ca3)
+
 ### Run the server
 
     cd server
+    yarn install
     yarn start:dev
 
 ### Run the client
 
     cd client
+    yarn install
     yarn start
 
 Runs the app in the development mode.
